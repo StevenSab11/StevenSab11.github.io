@@ -1,0 +1,43 @@
+body{
+  background-color: #BBAB8C;
+}
+.disk{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 15%;
+  text-decoration: none;
+
+}
+.clookdiv{
+  border: solid;
+  border-radius: 25px;
+}
+.clook{
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+  color: black;
+  transition: color 0.5s;
+}
+.clook:hover{
+  color: white;
+}
+.cscandiv{
+  border: solid;
+  border-radius: 25px;
+}
+.cscan{
+  text-decoration: none;
+  color: black;
+  display: flex;
+  justify-content: center;
+  transition: color 0.5s;
+}
+.cscan:hover{
+  color: white;
+}
+.diskscheduling{
+    display: flex;
+    justify-content: center;
+}

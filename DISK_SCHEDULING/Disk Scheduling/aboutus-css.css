@@ -1,0 +1,41 @@
+body{
+  background-color: #BBAB8C;
+}
+
+.picnglahat{
+  width: 250px;
+  height: 250px;
+  display: flex;
+  margin-left: 5%;
+  border-radius: 250px;
+}
+
+.khane {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 75%;
+  }
+.userinfo{
+  display: flex;
+  justify-content: center;
+  width: 40%;
+  height: 20%;
+  border: solid;
+  flex-direction: column;
+}
+.steven{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 75%;
+}
+
+.angel{
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 75%;
+}
